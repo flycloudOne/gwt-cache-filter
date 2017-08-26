@@ -3,7 +3,7 @@
 
 	<groupId>org.realityforge.gwt</groupId>
 	<artifactId>gwt-cache-filter</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
 	<parent>
@@ -19,7 +19,7 @@
 		<developerConnection>scm:git:https://github.com/flycloudOne/gwt-cache-filter.git</developerConnection>
 		<!-- git项目浏览器里的地址 -->
  		<url>https://github.com/flycloudOne/gwt-cache-filter</url>
-		<tag>gwt-cache-filter-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
